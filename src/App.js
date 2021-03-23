@@ -9,7 +9,12 @@ const data = {
       {
         _uid: "BUY6Drn9e1",
         component: "foo",
-        headline: "Foo"
+        headline: "Software Engineer"
+      },
+      {
+        _uid: "X1JAfdsZxy",
+        component: "foo",
+        headline: "Austin Webb"
       },
       {
         _uid: "gJZoSLkfZV",
@@ -21,11 +26,6 @@ const data = {
         component: "foo",
         headline: "Another headline"
       },
-      {
-        _uid: "X1JAfdsZxy",
-        component: "foo",
-        headline: "Another head"
-      }
     ]
   }
 };
